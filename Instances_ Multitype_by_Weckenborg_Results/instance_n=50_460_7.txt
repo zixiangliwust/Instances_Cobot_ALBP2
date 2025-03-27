@@ -1,0 +1,8 @@
+<objective upper bound>
+283
+<objective lower bound>
+260
+<objective gap>
+0.0000
+<optimality verified>
+0
