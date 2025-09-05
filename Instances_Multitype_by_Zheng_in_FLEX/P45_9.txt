@@ -1,7 +1,7 @@
 <number of tasks>
 45
 <number of stations>
-4
+9
 <type of the robots>
 4
 <cost of the robots>
