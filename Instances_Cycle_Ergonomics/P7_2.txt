@@ -1,0 +1,54 @@
+<number of tasks>
+7
+<number of stations>
+2
+<number of workers>
+2
+<type of the robots>
+1
+<limit of the robots>
+1
+<task times>
+1 100000 3 4 3 100000
+2 100000 4 4 3 3
+3 100000 1 4 100000 3
+4 3 2 1 2 1
+5 5 4 1 3 1
+6 100000 4 2 3 2
+7 1 1 1 1 1
+<posture of tasks>
+1 1
+2 1
+3 1
+4 0
+5 1
+6 1
+7 1
+<max energy cosumption of alternatives>
+1 100000.00
+2 2.58
+3 4.52
+<energy cosumption of alternatives>
+1 100000.00 0.10 0.16 0.03 100000.00
+2 100000.00 0.13 0.16 0.07 0.05
+3 100000.00 0.04 0.16 100000.00 0.05
+4 100000.00 0.05 0.06 0.02 0.03
+5 100000.00 0.12 0.06 0.08 0.04
+6 100000.00 0.14 0.11 0.08 0.07
+7 100000.00 0.03 0.06 0.02 0.02
+<task rigidity>
+1 9
+2 6
+3 3
+4 2
+5 2
+6 2
+7 6
+<precedence relations>
+1,4
+2,3
+3,6
+4,7
+5,6
+6,7
+<end>

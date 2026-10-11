@@ -1,0 +1,4 @@
+<objective upper bound>
+1025
+<objective lower bound>
+672
