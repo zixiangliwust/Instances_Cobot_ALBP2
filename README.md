@@ -29,3 +29,13 @@ References
 [9] Chenyu Zheng, Zixiang Li, Zikai Zhang, Liping Zhang, Qiuhua Tang. Multi-objective restarted simulated annealing algorithm for assembly line balancing problem with collaborative robots considering ergonomics risks. Flexible Services and Manufacturing Journal, 2025.  
 [10] Zeynel Abidin Çil, Zixiang Li, Suleyman Mete, Eren Özceylan. Mathematical model and bee algorithms for mixed-model assembly line balancing problem with physical human–robot collaboration. Applied Soft Computing, 2020, 93:106394.  
 
+
+---
+
+## Document Index
+
+- [CHANGELOG.md](CHANGELOG.md) — version history and changelog
+- [VERSION](VERSION) — current version
+- [LICENSE](LICENSE) — license
+
+**Maintainer:** IISO Team ｜ **Version:** 1.0.0 ｜ **Last Updated:** 2026-10-12
